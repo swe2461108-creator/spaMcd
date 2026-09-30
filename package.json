@@ -1,0 +1,16 @@
+{
+  "name": "spazandraa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --quiet-deps --silence-deprecation=import,if-function src/scss/style.scss src/css/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bulma": "^1.0.4",
+    "sass": "^1.105.0"
+  }
+}
