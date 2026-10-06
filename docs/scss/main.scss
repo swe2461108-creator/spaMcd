@@ -1,8 +1,8 @@
 @use "sass:color";
 // variables
-$primaryColor: #2035d4;
+$primaryColor: #051767;
 $primaryColorDark: color.scale($primaryColor, $lightness: -15%);
-$secondaryColor: #c90999;
+$secondaryColor: #e32892;
 $secondaryColorDark: color.scale($secondaryColor, $lightness: -15%);
 @import "../../node_modules/bulma/bulma";
 // custom styles
